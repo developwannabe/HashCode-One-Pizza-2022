@@ -1,1 +1,4 @@
 *.class
+/.idea
+GitHub.iml
+/out
